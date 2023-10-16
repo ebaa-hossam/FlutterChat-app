@@ -1,2 +1,16 @@
-# FlutterChat-app
-FlutterChatPro is a cutting-edge chat group app built with the Flutter framework and powered by Firebase, providing users with a robust and feature-rich platform for seamless communication and collaboration. Which offers a dynamic and interactive chat experience with user authentication and stunning UI animations.
+# chat_app
+
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
